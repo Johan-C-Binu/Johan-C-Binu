@@ -22,7 +22,7 @@
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzoT84iKM1FcJo8CElo_auRjdtnKvBqCFXVA&s" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQ0J7cE22TDlhNX_947SnT8NFtvJmKX4QtQ&s" height="30" alt="html5 logo"  />
+  <img src="https://simpleicons.org/icons/cplusplus.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
