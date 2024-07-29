@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
 
 ###
 
@@ -37,6 +37,8 @@
 ###
 
 <br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 ###
