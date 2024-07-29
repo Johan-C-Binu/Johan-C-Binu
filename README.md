@@ -25,7 +25,7 @@
   <img width="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="30" alt="c++ logo"  />
   <img width="50" />
-  <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" height="50" alt="matlab logo"  />
+  <img href="google.com" src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" height="50" alt="matlab logo"  />
   <img width="50" />
   
 
