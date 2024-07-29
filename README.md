@@ -20,9 +20,9 @@
 
 <div align="left">
   
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzoT84iKM1FcJo8CElo_auRjdtnKvBqCFXVA&s" height="30" alt="react logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="30" alt="davinci logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="30" alt="c++ logo"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
