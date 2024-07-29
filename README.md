@@ -19,14 +19,15 @@
 ###
 
 <div align="left">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="30" alt="davinci logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="30" alt="c++ logo"  />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000" height="30" alt="matlab logo"  />
   <img width="12" />
+  
 
 </div>
 
